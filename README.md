@@ -91,7 +91,7 @@ To build a strong foundation in Data Science by combining:
 ## 📌 How to Use
 
 1. Clone the repo
-2. git clone https://github.com/BitikRaushan/data-science-notes.git
+2. git clone https://github.com/BitikRaushan/Data_Science.git
  
 3. Open Jupyter Notebook
 . 
